@@ -10,7 +10,7 @@ This project utilized the Twitter API and Vader Sentiment Analyzer to review the
 
 2. Many of the compound scores for the individual tweets are netural. This suggests that the tweets may not have an emotionally charged sentiment or the tweets are too short to provide much accurate analysis. 
 
-3. There is still some variation among the scores of the different news agencies overall. CBS News returned the most negative average compound score of -.11, while CNN had the highest at .07. 
+3. There is still some variation among the scores of the different news agencies overall. CBS News returned the most negative average compound score of -.16, while NYTimes had the highest at .06. 
 
 **Future Analysis**
 
